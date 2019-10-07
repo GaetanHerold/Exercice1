@@ -11,6 +11,7 @@
 using namespace std;
 
 int main (){
+	//ceci est un test
 
 	cout << "Création de deux polynômes: " << endl;
 	vector<double> coeff_p1({-2,7,-8});
